@@ -17,6 +17,7 @@ public class MainActivity extends AppCompatActivity {
     public void ingresar(View v){
         Intent pj = new Intent(this, pantalla_dos.class);
         startActivity(pj);
+        //Hola chris
     }
 
     public void Salir(View v){
